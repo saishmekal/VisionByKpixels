@@ -156,4 +156,4 @@ Developed as a real-world client project to deliver a professional digital portf
 
 ---
 
-*Built with React, Node.js, MongoDB, and a passion for creating meaningful digital experiences.*
+*Built with React, Node.js, MongoDB, and a passion for creating meaningful smooth digital experiences.*
