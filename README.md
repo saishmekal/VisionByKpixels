@@ -88,8 +88,8 @@ The frontend collects enquiry information and sends it to the backend API. The b
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_PROJECT_DIRECTORY>
+git clone <https://github.com/saishmekal/VisionByKpixels.git>
+cd <YOUR_PROJECT_DIRECTORY (Frontend OR Backend)>
 ```
 
 ### 2. Install dependencies
